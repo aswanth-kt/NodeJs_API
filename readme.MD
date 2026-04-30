@@ -34,8 +34,8 @@ A simple backend API built using **Node.js**, **Express**, and **MongoDB** follo
 1. Clone the repository
 
 ```bash id="tyxq08"
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/aswanth-kt/NodeJs_API.git
+cd NodeJs_API
 ```
 
 2. Install dependencies
